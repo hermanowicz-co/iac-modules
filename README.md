@@ -6,6 +6,7 @@
 ## Todos:
 
 - [ ] Build VPC (AWS)
+- [ ] Image build (AWS)
 - [ ] Prod VPC (AWS)
 - [ ] Shared Services VPC (AWS)
 - [ ] Peered Global VPC (AWS)
@@ -13,6 +14,6 @@
 - [ ] EKS Cluster
 - [ ] RKE2 Cluster (AWS)
 - [ ] K3s Cluster (AWS)
-- [ ] Galera Regional Cluster
-- [ ] Galera Global Cluster
+- [ ] Galera Regional Cluster (AWS)
+- [ ] Galera Global Cluster (AWS)
 - [ ] Serverles Aurora (Postgres)
